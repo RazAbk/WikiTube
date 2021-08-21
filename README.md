@@ -4,7 +4,8 @@ A single page website that combines Youtube and Wikipedia:
 
 • Vanila Javascript\
 • Responsive design (works on mobile phones)\
-• Working with axios library 
+• Working with axios library\
+• (Youtube api isn't online)
 
 https://razabk.github.io/WikiTube/
 
